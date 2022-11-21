@@ -1,0 +1,4 @@
+/node_modules/
+/.env
+# It is the condition like user -> game -> ground -> location
+# Multiple includes used 
